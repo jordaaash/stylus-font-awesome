@@ -1,0 +1,21 @@
+{
+  "name": "stylus-font-awesome",
+  "version": "0.0.0",
+  "description": "stylus-font-awesome ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus"
+  ],
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:poying/stylus-font-awesome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/poying/stylus-font-awesome/issues"
+  }
+}
